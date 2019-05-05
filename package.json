@@ -1,0 +1,26 @@
+{
+  "name": "eagle-store",
+  "version": "1.0.0",
+  "description": "Uma web store para linux, baseada em snap e flatpak. (produção).",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hello-cruel-world-web-site/eagle-store.git"
+  },
+  "keywords": [
+    "snap",
+    "flatpak",
+    "store",
+    "linux",
+    "web"
+  ],
+  "author": "GustavoLeao2018",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hello-cruel-world-web-site/eagle-store/issues"
+  },
+  "homepage": "https://github.com/hello-cruel-world-web-site/eagle-store#readme"
+}
